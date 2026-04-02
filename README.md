@@ -54,6 +54,11 @@
 - This program is only compatible with Windows
 > Windows XP, Vista, 7, 8, 8.1, 10, 11
 
+>[!TIP]
+>### Background execution
+>To run without console window, save as **`.pyw`** file extension instead of `.py`.  
+>The bot will start silently in background.
+
 ## ⚖️ Licensing
 
 The project is distributed under the [MIT License](https://github.com/Mrmisterxd/bed-time/blob/main/LICENSE)
