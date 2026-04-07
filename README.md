@@ -59,6 +59,9 @@
 >To run without console window, save as **`.pyw`** file extension instead of `.py`.  
 >The bot will start silently in background.
 
+## ℹ️ Contact me:
+- `Telegram` [@cryoffs](https://t.me/cryoffs)
+
 ## ⚖️ Licensing
 
 The project is distributed under the [MIT License](https://github.com/Mrmisterxd/bed-time/blob/main/LICENSE)
