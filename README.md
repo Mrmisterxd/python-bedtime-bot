@@ -61,6 +61,7 @@
 
 ## ℹ️ Contact me:
 - `Telegram` [@cryoffs](https://t.me/cryoffs)
+- `Discord` [Link server](https://discord.gg/s8Meut9mda)
 
 ## ⚖️ Licensing
 
